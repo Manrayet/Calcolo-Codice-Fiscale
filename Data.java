@@ -1,5 +1,3 @@
-package Capolavoro;
-
 public class Data {
 
     private int giorno;
